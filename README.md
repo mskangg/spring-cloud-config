@@ -53,5 +53,5 @@
   - git repository라면 webhook 기능을 사용해서 config 서버가 bus에 변경이벤트를 등록해서 자동으로 처리가능
     - 단점이라면, 실수로 변경해도 바로 날라가기 때문에 주의해야함
     - 운영환경이라면 이 기능까진 필요없을듯?
-- bus + webhook 적용 구조
+- bus + webhook 적용 구조  
 ![alt](./img/config-bus-webhook-architecture.png)
