@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="abd716af-677f-41a6-b2d1-7b223251b0f3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-client1">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-client2">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/config-server">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1vzx5E4r27GcEwywoq3E11BGYN1" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/config-client1/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/config-client2/src/main/resources" />
+      <recent name="$PROJECT_DIR$/config-client1/src/main/resources" />
+      <recent name="$PROJECT_DIR$/config-client2/src/main/java/com/github/mskangg/configclient2" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigClient1Application">
+    <configuration name="config-server-tset#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/config-server-tset.http" index="5" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server-tset#6" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/config-server-tset.http" index="6" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server-tset#7" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/config-server-tset.http" index="7" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server-tset#8" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/config-server-tset.http" index="8" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="config-server-tset#9" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/http/config-server-tset.http" index="9" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="boot" type="Multirun" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="1.0">
+      <runConfiguration name="ConfigServerApplication" type="Spring Boot" />
+      <runConfiguration name="ConfigClient1Application" type="Spring Boot" />
+      <runConfiguration name="ConfigClient2Application" type="Spring Boot" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ConfigClient1Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client1.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.mskangg.configclient1.ConfigClient1Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigClient2Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-client2.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.mskangg.configclient2.ConfigClient2Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config-server.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.github.mskangg.configserver.ConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="HTTP Request.config-server-tset#5" />
+      <item itemvalue="HTTP Request.config-server-tset#8" />
+      <item itemvalue="HTTP Request.config-server-tset#9" />
+      <item itemvalue="HTTP Request.config-server-tset#6" />
+      <item itemvalue="HTTP Request.config-server-tset#7" />
+      <item itemvalue="Multirun.boot" />
+      <item itemvalue="Spring Boot.ConfigClient1Application" />
+      <item itemvalue="Spring Boot.ConfigClient2Application" />
+      <item itemvalue="Spring Boot.ConfigServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP Request.config-server-tset#7" />
+        <item itemvalue="HTTP Request.config-server-tset#5" />
+        <item itemvalue="HTTP Request.config-server-tset#6" />
+        <item itemvalue="HTTP Request.config-server-tset#8" />
+        <item itemvalue="HTTP Request.config-server-tset#9" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abd716af-677f-41a6-b2d1-7b223251b0f3" name="Changes" comment="" />
+      <created>1627578535477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627578535477</updated>
+      <workItem from="1627578537772" duration="174000" />
+      <workItem from="1627578727452" duration="4373000" />
+      <workItem from="1627583136281" duration="26000" />
+      <workItem from="1627583175278" duration="8991000" />
+      <workItem from="1627670324699" duration="28000" />
+      <workItem from="1627670372156" duration="39000" />
+      <workItem from="1627670446594" duration="21000" />
+      <workItem from="1627670519153" duration="18000" />
+      <workItem from="1627670554669" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

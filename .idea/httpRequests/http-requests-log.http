@@ -1,0 +1,48 @@
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T023512.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T023029.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T022242.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T021946.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T021940.200.json
+
+###
+
+POST http://localhost:8081/actuator/refresh
+
+<> 2021-07-31T021913.200.json
+
+###
+
+GET http://localhost:8081/static
+
+<> 2021-07-30T031704.200.txt
+
+###
+
+GET http://localhost:8081/static
+
+<> 2021-07-30T031330.200.txt
+
+###
+

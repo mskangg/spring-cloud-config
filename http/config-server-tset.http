@@ -1,0 +1,29 @@
+###
+GET http://localhost:8888/config/dev/main
+
+###
+GET http://localhost:8888/config/qa/main
+
+###
+GET http://localhost:8888/config/stg/main
+
+###
+GET http://localhost:8888/config/prod/main
+
+### config-client1 static한 값 요청
+GET http://localhost:8081/static
+
+### config-client1 dynamic한 값 요청
+GET http://localhost:8081/dynamic
+
+### config-client1 refresh
+POST http://localhost:8081/actuator/refresh
+
+### config-client2 static한 값 요청
+GET http://localhost:8082/static
+
+### config-client2 dynamic한 값 요청
+GET http://localhost:8082/dynamic
+
+### config-client2 refresh
+POST http://localhost:8082/actuator/refresh

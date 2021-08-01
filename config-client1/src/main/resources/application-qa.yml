@@ -1,0 +1,8 @@
+spring:
+  config:
+    import: "optional:configserver:" # localhost:8888
+  cloud:
+    config:
+      label: main
+      name: config
+      profile: qa
